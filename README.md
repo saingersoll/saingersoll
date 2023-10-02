@@ -2,6 +2,8 @@
 
 <!--
 **saingersoll/saingersoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pronouns, personal website / linkedin, projects or professional involvement (co-chairs), education, + experience
+include html code to customize readme
 
 Here are some ideas to get you started:
 
