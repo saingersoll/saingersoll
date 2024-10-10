@@ -13,7 +13,7 @@
 
 ⚛🌿 I am an environmental data scientist who utilizes science communication and data visualizations to help bridge the gap that prevents informed action to be taken.
 
-📝 I'm seeking to gain experience writing policy suggestions to directly connect research and real change for sustainability and resiliency related issues.
+📝 I'm seeking to gain experience writing policy suggestions to directly connect research and real change for sustainability and resiliency related issues. I am very adaptable and always looking to learn new techniques and software to expand my skill set.
 
 🌏🛰️ I am most interested in leveraging my geospatial analysis skills to prepare for extreme climate events, aid in the clean energy transition, assess public health exposure to pollutants after hazardous events, and guide resource management.
 
