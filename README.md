@@ -11,7 +11,7 @@
 
 ### About Me
 
-⚛🌿 I am an environmental data scientist who utilizes science communication and data visualizations to bridge the gap that prevents informed action to be taken.
+⚛🌿 I am an environmental data scientist who utilizes science communication and data visualizations to help bridge the gap that prevents informed action to be taken.
 
 📝 I'm seeking to gain experience writing policy suggestions to directly connect research and real change for sustainability and resiliency related issues.
 
