@@ -30,6 +30,6 @@
 
     Master in Environmental Data Science @ UC Santa Barbara (June 2024)
     BS in Chemistry @ University of California, San Diego (June 2023)
-    AS in Mathematics, Physics, Natural Sciences, & Chemsitry @ Moorpark College (June 2021)
+    AS in Mathematics, Physics, Natural Sciences, & Chemsitry @ Moorpark College (May 2021)
     
 Check out some of my current and previous projects below!
