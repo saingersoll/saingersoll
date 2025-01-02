@@ -23,9 +23,9 @@
 
     2025-2025: Project Lead & Geospatial Data Analyst, NASA DEVELOP Analytical Mechanics Associate @ Jet Propulsion Laboratory
     2024-2024: Capstone Lead Data Engineer & Communications Manager, NCAR Climate & Global Dynamics Lab; Bren, UCSB; NCEAS
-    2023-2024: Data Scientist Graduate Research Assistant, The 2035 Initiative @ UCSB
-    2022-2023: Environmental Data Analyst Ungrad Research Assistant, Slade Labs @ UCSD Department of Atmospheric & Analytical Chemistry
-    2021-2022: Campaign Creative Director, Helen Eloyan for Ventura, CA District 1 City Council Member, remote
+    2023-2024: Environmental Data Scientist, The 2035 Initiative @ UCSB
+    2022-2023: Environmental Data Analyst, Slade Labs @ UCSD Department of Atmospheric & Analytical Chemistry
+    2021-2022: Campaign Creative Director, Helen Eloyan for Ventura, CA District 1 City Council Member
     2019-2021: Investment Specialist - Director of Marketing & Special Events, Keller Williams: Big H Homes Realty, Westlake Village, CA
     2019-2022: Lead Math & Science Tutor @ Moorpark College & The Rising Scholar's Program
 #### Education
