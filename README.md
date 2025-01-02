@@ -21,6 +21,7 @@
 
 #### Experience
 
+    2025-2025: Project Lead & Geospatial Data Analyst for the San Bernardino Wildland Fires Project, NASA DEVELOP Analytical Mechanics Associate @ Jet Propulsion Laboratory
     2023-2024: Data Scientist Graduate Research Assistant, The 2035 Initiative @ UCSB
     2022-2023: Environmental Data Analyst Ungrad Research Assistant, Slade Labs @ UCSD Department of Atmospheric & Analytical Chemistry
     2021-2022: Campaign Creative Director, Helen Eloyan for Ventura, CA District 1 City Council Member, remote
